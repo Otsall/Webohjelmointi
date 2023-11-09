@@ -2,7 +2,7 @@ Arviointikriteerit:
 
 Html osalta käytetään melkein kaikkea paitsi tableja ja formeja. 
 
-Index.html
+"Index.html
 Basic 1/5 : <!DOCTYPE html>  rivi 1
 <html> rivi 2
 <head> rivi 4
@@ -23,7 +23,7 @@ ei tehty
 header rivi 17 
 nav rivi 20
 section rivi 29
-divejä useita
+divejä useita  "
 
 
 
