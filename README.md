@@ -13,17 +13,17 @@ Basic 1/5 : <!DOCTYPE html>  rivi 1
 
 3/5
 <a href= rivit 21-24
-<link href font rivi 5 />
-<link style rivi 10 />
+link href font rivi 5 />
+link style rivi 10 />
 
 4/5
 ei tehty
 
 5/5
-<header rivi 17 
-<nav rivi 20
-<section rivi 29
-<divejä useita
+header rivi 17 
+nav rivi 20
+section rivi 29
+divejä useita
 
 
 
